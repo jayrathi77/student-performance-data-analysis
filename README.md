@@ -1,6 +1,6 @@
 # 📊 Student Performance Data Analysis
 
-> A Data Science project that explores student performance using descriptive statistics, random sampling, and data visualization with Python.
+> A Data Science assingnment that explores student performance using descriptive statistics, random sampling, and data visualization with Python.
 
 ---
 
